@@ -188,6 +188,14 @@ The results demonstrate the effectiveness of transfer learning in medical image 
 | Febrounia Emad |Evaluation |
 | Bavly Fady | GUI & Application Development |
 | Mina Emad | GUI & Application Development |
+## Sample X-ray Images
+
+### Normal / Pneumonia Examples
+
+![X-ray 1](images/dl1.jpg)
+![X-ray 2](images/dl2.jpg)
+![X-ray 3](images/dl3.jpg)
+![X-ray 4](images/dl4.jpg)
 
 ---
 
