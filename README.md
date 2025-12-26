@@ -19,7 +19,7 @@
 
 ## 🔗 Project Notebook
 📌 **Google Colab Notebook:**  
-👉 [Open In Colab](PUT_COLAB_LINK_HERE)
+👉 [Open In Colab](https://colab.research.google.com/drive/1NCZj1b3zu3gR3FnvHeg0_fbYPLn0StSW?usp=sharing)
 
 ---
 
