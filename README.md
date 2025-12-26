@@ -136,22 +136,10 @@ Classification Output
 
 ## 📈 Performance Visualization
 
-### Training Curves
-<img src="results/training_curve.png" width="500"/>
-<img src="results/loss_curve.png" width="500"/>
-
 ### Confusion Matrix
 <img src="results/confusion_matrix.png" width="450"/>
 
 ---
-
-## 🧪 Sample Predictions
-
-### Normal Case
-<img src="results/normal_example.png" width="400"/>
-
-### Pneumonia Case
-<img src="results/pneumonia_example.png" width="400"/>
 
 ---
 
