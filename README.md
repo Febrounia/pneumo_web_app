@@ -137,7 +137,7 @@ Classification Output
 ## 📈 Performance Visualization
 
 ### Confusion Matrix
-<img src="results/confusion_matrix.png" width="450"/>
+<img src="results/con_mat.jpeg" width="450"/>
 
 ---
 
